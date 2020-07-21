@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm not a dev but very passionate about source code, open source and general tinkering of ideas. 
+
 <!--
 **adeelmalik78/adeelmalik78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
